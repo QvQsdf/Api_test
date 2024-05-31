@@ -1,0 +1,5 @@
+venc/
+*.log
+!/log/
+*result/
+*__pycache/
